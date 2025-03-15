@@ -59,13 +59,15 @@ The model helps **banks and financial institutions** make data-driven lending de
    ```bash
    git clone https://github.com/yourusername/Credit-Risk-Prediction.git
    cd Credit-Risk-Prediction
-
+   ```
 2. **Install dependencies**:
+  ```bash
    pip install -r requirements.txt
-
+  ```
 3. **Run the model**:
+   ```bash
    python credit_risk_prediction.py
-   
+   ```
 
 ## 🎯 Business Use Cases:
 📌 Loan Approval Automation → Predict borrower risk and automate approval decisions.
@@ -73,6 +75,11 @@ The model helps **banks and financial institutions** make data-driven lending de
 📌 Risk-Based Interest Rate Adjustments → Charge higher interest rates for high-risk borrowers.
 📌 Customer Segmentation → Group borrowers into risk categories for personalized financial products.
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit a pull request if you have improvements or new features.
+
+## 📜 License
+This project is licensed under the MIT License.
 
 ## 📩 Contact & Support
 📧 Email: vishal1594@outlook.com
